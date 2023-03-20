@@ -13,4 +13,4 @@ what growth mindeset means to me
 3.
 4.
 5.
-Link to my site https://github.com/brandenyz125
+[Link to my site https://github.com/brandenyz125]
