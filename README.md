@@ -10,6 +10,6 @@ Growth mindset to me is facing challening obstacles and being able to find the w
 
 1. *understanding that things my become challening*
 2. *dont quit when things get tough*
-3. *when you dont understand something to reach out and ask for help*
+3. *when you dont understand something it's ok reach out and ask for help*
 
 Link to my site (https://github.com/brandenyz125)
