@@ -1,13 +1,14 @@
-# reading-notes
+# Introduction
 
-my code fellows reading journal
+ Hello everyone, My names Branden Nesbit, I'm originally from Califrornia and am now residing in Florida. Before joining code fellows
+I was active duty in the Army for six years. After getting out of the Military I became an Electrician. I decided to Join Code fellows 
+because I could no longer work in the construction field. After looking for options of what to explore next I found this program 
+through the Veterans Affairs and decided to give this a GO! 
 
-my names Branden Nesbit
+![Screenshot (3)](https://user-images.githubusercontent.com/128412577/227027359-fe7c12d3-0ee3-49bc-bdb7-b34ea7fe34ab.png)
 
 
-![Screenshot (3)](https://user-images.githubusercontent.com/128412577/227025075-46a73ee4-dc02-4c70-bb99-338848350092.png)
-
-Growth mindset to me is facing challening obstacles and being able to find the way to conquer your mission. 
+## Growth mindset 
 
 **three reminders to stay in a growth mindset:**
 
