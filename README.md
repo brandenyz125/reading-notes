@@ -16,4 +16,4 @@ through the Veterans Affairs and decided to give this a GO!
 2. *dont quit when things get tough*
 3. *when you dont understand something it's ok reach out and ask for help*
 
-[Link to my site] (https://github.com/brandenyz125)
+[Link to my site](https://github.com/brandenyz125)
