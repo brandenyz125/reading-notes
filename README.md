@@ -4,8 +4,8 @@ my code fellows reading journal
 
 my names Branden Nesbit
 
-![Taken a year ago](![Screenshot (3)](https://user-images.githubusercontent.com/128412577/227024891-cd869381-0e9f-4a2a-bd55-e09a60ff9177.png)
-)
+
+![Screenshot (3)](https://user-images.githubusercontent.com/128412577/227025075-46a73ee4-dc02-4c70-bb99-338848350092.png)
 
 Growth mindset to me is facing challening obstacles and being able to find the way to conquer your mission. 
 
