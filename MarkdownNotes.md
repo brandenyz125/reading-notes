@@ -1,10 +1,10 @@
-# Mardown
+# Markdown
 
 Markdown is a light weight markup language to create a basic web page. It differs from Microsoft Word by being able
 to enter syntax instead of using buttons. There is a lot of different syntax you can use in using markdown. Here are 
 just a few of the syntax that I have learned so far :
 
-## Some mardown syntax
+## Some markdown syntax
 
 1. One hashtag creates a heading that is the biggest heading
 2. Two asteriks before and after your statement makes it **bold**
