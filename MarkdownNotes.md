@@ -1,11 +1,20 @@
-# Markdown
+# Mardown
 
-1. Makrdown is a lightweight language to make webpages similiar to HTML
-2. We use Markdown to produce documents, web pages, notes, books, presentations, email messages and technical documentation  
-3. The # will create a heading in Markdown
-4. you need 1 # to create the largest heading
-5. you need 6 # to create the smallest heading
-6. it is best to use the astericks for bold or italic 
-7. you use []() to make a link the title to the left and the content on the right hand side
-8. the three symbols to create and unordered list are ., ), and -
+Markdown is a light weight markup language to create a basic web page. It differs from Microsoft Word by being able
+to enter syntax instead of using buttons. There is a lot of different syntax you can use in using markdown. Here are 
+just a few of the syntax that I have learned so far :
+
+## Some mardown syntax
+
+1. # creates a heading that is the biggest heading
+2. **bold** the asteriks around bold create a bold statement
+3. You can also create an ordered list by typing 1. First item and so on
+
+## some benefits of Markdown
+
+1. Markdown is future proof
+2. Markdown is portable 
+3. Markdown can be used for everything like websites, documents and notes to name a few
+
+
 
