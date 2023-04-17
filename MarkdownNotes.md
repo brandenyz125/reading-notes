@@ -7,7 +7,7 @@ just a few of the syntax that I have learned so far :
 ## Some mardown syntax
 
 1. The hashtag creates a heading that is the biggest heading
-2. **bold** the asteriks around bold create a bold statement
+2. Two asteriks before and after your statement makes it **bold**
 3. You can also create an ordered list by typing 1. First item and so on
 
 ## some benefits of Markdown
