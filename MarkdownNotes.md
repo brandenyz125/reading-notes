@@ -6,7 +6,7 @@ just a few of the syntax that I have learned so far :
 
 ## Some mardown syntax
 
-1. The hashtag creates a heading that is the biggest heading
+1. One hashtag creates a heading that is the biggest heading
 2. Two asteriks before and after your statement makes it **bold**
 3. You can also create an ordered list by typing 1. First item and so on
 
