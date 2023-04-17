@@ -13,5 +13,5 @@
 1. CD PROJECTS allows you to change the directory from where ever you are at to the projects folder
 2. MKDIR NEW-PROJECT allows you to creat a new folder in projects
 3. touch new-project/newfile.md allows you to create the file inside of the folder NEW-PROECTS
-4. The next CD command does nothing until you make an argument of where you want to change to.
+4. The next CD command does nothing until you make an argument of where you want to change to
 5. LS projects/new-project will list the new file you created under projects.
